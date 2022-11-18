@@ -1,11 +1,11 @@
-## HI ! 
+## 👋 HI ! 
 > HI !
 
-- 👋 Hi, I’m @Growing-Jiwoo
+<!-- - 👋 Hi, I’m @Growing-Jiwoo
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... -->
 
 <!---
 Growing-Jiwoo/Growing-Jiwoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
