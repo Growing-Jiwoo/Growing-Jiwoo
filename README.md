@@ -11,11 +11,14 @@
 	<h4>📚 Tech Stack 📚</h4>
 </div>
 <div align="center">
+	<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+	<img src="https://img.shields.io/badge/React-0769AD?style=flat&logo=React&logoColor=white" />
+	<img src="https://img.shields.io/badge/typescript-6DB33F?style=flat&logo=typescript&logoColor=white" />
+	<br />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/React-0769AD?style=flat&logo=React&logoColor=white" />
-	<img src="https://img.shields.io/badge/typescript-6DB33F?style=flat&logo=typescript&logoColor=white" />
+ 
 </div>
 <div align=center>
 	<h4>🎨 SNS 🎨</h4>
